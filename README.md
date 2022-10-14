@@ -1,6 +1,4 @@
 # Flask
-Flask Projects
-
 <body>
 <p style="color:#2980B9";><b>The intent of this repository is to learn how to make Restful APIs with Python Flask.</b>
 
